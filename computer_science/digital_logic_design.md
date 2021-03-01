@@ -1,0 +1,13 @@
+1.<a href="http://vlabs.iitb.ac.in/rec-bootathon/vlabdigitizers-multiplexer-using-universal-logic-gates-pvgcoet/">Multiplexer using Universal logic gates</a><br>
+2.<a href="http://vlabs.iitb.ac.in/rec-bootathon/vlabdigitizers-demultiplexer-using-basic-logic-gates-pvgcoet/">Demultiplexer using basic logic gates</a>
+3.<a href="http://vlabs.iitb.ac.in/rec-bootathon/vlabdigitizers-demultiplexer-using-universal-logic-gates-pvgcoet/">Demultiplexer using Universal logic gates</a>
+4.<a href="http://vlabs.iitb.ac.in/rec-bootathon/vlabdigitizers-multiplexer-application-pvgcoet/theory.html">Application of Multiplexer</a>
+5.<a href=""></a>
+6.<a href=""></a>
+7.<a href=""></a>
+8.<a href=""></a>
+9.<a href=""></a>
+10.<a href=""></a>
+11.<a href=""></a>
+12.<a href=""></a>
+13.<a href=""></a>

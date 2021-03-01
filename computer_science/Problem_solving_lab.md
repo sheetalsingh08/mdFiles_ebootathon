@@ -1,0 +1,14 @@
+<a  href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp14/">WAP to print the Fibonacci series</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp13/">WAP to print sum of even and odd numbers from 1 to N numbers.</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp12/">WAP that finds whether a given number is even or odd.</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp11/">WAP that checks whether the two numbers entered by the user are equal or not</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp8/simulation.html">WAP to check whether the entered number is prime or not</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp9/">WAP to check whether a given word exists in a file or not. If yes then find the number of times it occurs</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp10/">WAP to swap two elements using the concept of pointers</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp5/">WAP to find the sum of digits of the entered number</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp6/">WAP to find the reverse of a number</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp7/">WAP to print Armstrong numbers from 1 to 100</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp1/">WAP that simply takes elements of the array from user and finds the sum of these elements</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp2/">WAP to find greatest of three numbers</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp3/">WAP that Swaps values of two variables using a third variable</a><br>
+<a href="http://ebootathon.com/labs/beta/csit/ProblemSolvingLab/exp4/">WAP that accepts the marks of 5 subjects and finds the sum and percentage marks obtained by the student</a>
