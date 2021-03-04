@@ -1,0 +1,1 @@
+<a href="http://vlabs.iitb.ac.in/rec-bootathon/codewarriors-image-object-focal-length-recb/">To find the image distance using object distance and focal length</a>

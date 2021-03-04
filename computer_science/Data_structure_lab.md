@@ -1,5 +1,3 @@
-## data structure lab
-
 1.<a href="http://vlabs.iitb.ac.in/rec-bootathon/vlcrew-queue-adt-recb/">Operations on queue using linked list</a>
 2.<a href="http://ebootathon.com/labs/beta/csit/DS/exp2/">Implementation of Queue using array</a>
 3.<a href="http://ebootathon.com/labs/beta/csit/DS/exp3/">Implementation of Queue using Linked List</a>
@@ -8,3 +6,5 @@
 6.<a href="http://ebootathon.com/labs/beta/csit/DS/exp6/">Searching algorithm - Binary Search</a>
 7.<a href="http://ebootathon.com/labs/beta/csit/DS/exp7/">Implementation of stack using array</a>
 8.<a href="http://ebootathon.com/labs/beta/csit/DS/exp8/">Implementation of Binary tree and tree traversal</a>
+9.<a href="http://ebootathon.com/labs/beta/csit/DS/exp1/">N-Queen's Problem</a>
+10.<a href="#">Implementation of floyd warshal Algorithm</a>

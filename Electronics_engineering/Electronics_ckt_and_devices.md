@@ -1,0 +1,1 @@
+<a href="http://ebootathon.com/labs/beta/ec/ElectronicsDevicesAndCircuitLab/exp1/">Characteristics of Zener diode: V-I characteristics of Zener diode, graphical measurement of forward and reverse resistance</a>

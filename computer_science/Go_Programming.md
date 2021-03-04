@@ -1,0 +1,2 @@
+1.<a href= "http://vlabs.iitb.ac.in/rec-bootathon/webdemons-full-wave-rectifier-aith/">Understanding and Analysing Syntax of GO Programing in Context of Arithematic Operations</a><br>
+2.<a href="http://vlabs.iitb.ac.in/rec-bootathon/soulcoders-understanding-and-analysing-operators-psit/">Understanding and Analysing Relation and Boolean Operators</a>

@@ -1,0 +1,3 @@
+1.<a href="http://ebootathon.com/labs/beta/foodtech/AnalysisOfFoodConstituentsLab/exp1/index.html">Determination of Moisture Content of Foods by Oven Drying</a><br>
+2.<a href="http://ebootathon.com/labs/beta/foodtech/AnalysisOfFoodConstituentsLab/exp2/">Determination of total and acid insoluble ash content in foods</a><br>
+3.<a href="http://ebootathon.com/labs/beta/foodtech/AnalysisOfFoodConstituentsLab/exp3/">Determination of crude fibre content in foods</a>

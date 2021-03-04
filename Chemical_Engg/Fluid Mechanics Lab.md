@@ -1,0 +1,2 @@
+1.<a href="http://ebootathon.com/labs/beta/chemical/FluidMechanicsLab/exp1/">Determine Reynolds number and study different types of flow</a><br>
+2.<a href="http://ebootathon.com/labs/beta/chemical/FluidMechanicsLab/exp2/">Verification of Bernoulli's theorem</a><br>

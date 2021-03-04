@@ -1,0 +1,3 @@
+<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp3/">Measurement of Power using CT and PT</a><br>
+<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp4/">To make connection and measurement of power consumption of a fluorescent lamp (tubelight)</a><br>
+<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp5/">Measuring pressure using piezoelectric pick up</a><br>

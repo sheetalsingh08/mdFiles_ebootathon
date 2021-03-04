@@ -1,0 +1,1 @@
+<a href="#">To create a simple html file to demonstrate the use of different tags</a>
