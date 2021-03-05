@@ -1,2 +1,2 @@
-<a href="#">To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveform</a><br>
-<a href="#">To study single phase fully controlled bridge rectifiers with resistive and inductive loads</a>
+1.<a href="#">To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveform</a><br>
+2.<a href="#">To study single phase fully controlled bridge rectifiers with resistive and inductive loads</a>

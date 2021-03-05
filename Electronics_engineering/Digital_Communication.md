@@ -1,3 +1,3 @@
-<a href="http://ebootathon.com/labs/beta/ec/DigitalCommunicationLab/exp1/">To study generation of Unipolar RZ & NRZ Line Coding</a><br>
-<a href="http://ebootathon.com/labs/beta/ec/DigitalCommunicationLab/exp2/">To study generation of Polar RZ & NRZ Line Coding</a><br>
-<a href="http://ebootathon.com/labs/beta/ec/DigitalCommunicationLab/exp3/">To study generation of Bipolar RZ & NRZ Line Coding</a><br>
+1.<a href="http://ebootathon.com/labs/beta/ec/DigitalCommunicationLab/exp1/">To study generation of Unipolar RZ & NRZ Line Coding</a><br>
+2.<a href="http://ebootathon.com/labs/beta/ec/DigitalCommunicationLab/exp2/">To study generation of Polar RZ & NRZ Line Coding</a><br>
+3.<a href="http://ebootathon.com/labs/beta/ec/DigitalCommunicationLab/exp3/">To study generation of Bipolar RZ & NRZ Line Coding</a><br>

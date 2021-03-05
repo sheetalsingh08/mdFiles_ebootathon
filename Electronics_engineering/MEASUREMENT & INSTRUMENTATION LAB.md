@@ -1,3 +1,3 @@
-<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp1/">Study of L.C.R. Bridge and determination of the value of the given components</a><br>
-<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp2/">Characteristics of Thermocouples and RTD</a><br>
-<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp3/">Characteristics of LVDT</a><br>
+1.<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp1/">Study of L.C.R. Bridge and determination of the value of the given components</a><br>
+2.<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp2/">Characteristics of Thermocouples and RTD</a><br>
+3.<a href="http://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp3/">Characteristics of LVDT</a><br>
